@@ -18,7 +18,7 @@ sudo bash ./build.sh
 For minify a json file you need to pass the source file with -i flag
 and the target path(with name and extension .json) with the flag -o
 ``` 
-sudo ./json-minify -i source/source.json -o source.min.json 
+./json-minify -i source/source.json -o source.min.json 
 ```
 
 ## Thats all, you have your new minified .json file :) 
